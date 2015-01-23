@@ -1,0 +1,23 @@
+{
+  "name": "imooc",
+  "version": "0.0.1",
+  "authors": [
+    "黄国鹏 <huangguopeng2011@gmail.com>"
+  ],
+  "description": "imooc movie",
+  "keywords": [
+    "imooc"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0"
+  }
+}
